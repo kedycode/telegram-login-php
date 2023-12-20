@@ -5,7 +5,7 @@ Merhaba, bu proje, Telegram Login Widget kullanarak sıfırdan bir Kullanıcı K
 ## Nasıl Kullanılır?
 
 1. **Projeyi İndirme:**
-git clone https://github.com/kullaniciadim/telegram-login-system.git
+https://github.com/kedycode/telegram-login-php.git
 
 
 2. **Veritabanı Oluşturma:**
